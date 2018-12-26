@@ -1,5 +1,7 @@
 # intro-to-github
 
+editing in console
+
 some changes
 
 This is a demo repository to practice using GitHub.
